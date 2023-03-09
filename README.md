@@ -1,12 +1,12 @@
 # KFANet: Key-Frame Attention Model
 
 
-![TabAttention](./figures/TabAttention.png)
+![Overview](Overview.png)
 
 In this repository we provide the code for using KFANet: Key-Frame Attention Model. We provide the training
 script in new_main.py and data loader with data augmentations in fetal_loader.py.
 
-![TabAttention](./figures/TabAttention_detailed.png)
+![KFA](KFA_module.png)
 
 To install dependencies:
 
