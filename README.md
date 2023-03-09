@@ -4,7 +4,7 @@
 ![Overview](Overview.png)
 
 In this repository we provide the code for using KFANet: Key-Frame Attention Model. We provide the training
-script in new_main.py and data loader with data augmentations in fetal_loader.py.
+script in new_main.py and data loader in fetal_loader.py.
 
 ![KFA](KFA_module.png)
 
